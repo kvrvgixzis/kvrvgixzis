@@ -1,8 +1,0 @@
-Host 124
-HostName tech.splinex-team.com
-User human
-Port 12422
-
-Host splinex
-HostName tech.splinex-team.com
-User human
