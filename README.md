@@ -1,5 +1,5 @@
 ## CV:
-[habr career link](https://career.habr.com/nktpfn)
+[cv](./CV.md)
 
 ## Contributing to public repos
 https://github.com/DefinitelyTyped/DefinitelyTyped/pull/53730
