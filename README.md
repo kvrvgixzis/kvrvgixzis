@@ -1,5 +1,5 @@
 ## CV:
-[cv](./CV.md)
+[ru cv](./CV.md)
 
 ## Contributing to public repos
 https://github.com/DefinitelyTyped/DefinitelyTyped/pull/53730
