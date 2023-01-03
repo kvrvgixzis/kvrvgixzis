@@ -23,6 +23,8 @@ React, Redux, JavaScript, Node.js, TypeScript, Linux, Git, Docker, Nginx
 #### *Июль 2022 — По наст. время*
 Frontend разработчик
 
+---
+
 ### **Яндекс**
 
 #### *Июль 2021 — По наст. время*
@@ -43,6 +45,8 @@ Frontend разработчик
 #### *Применяемые навыки*
 JavaScript, React, Node.js, Redux, TypeScript, GraphQL
 
+---
+
 ### **Doubletapp**
 
 #### *Май 2021 — Июнь 2022 (1 год и 2 месяца)*
@@ -50,6 +54,8 @@ Frontend разработчик
 
 #### *Применяемые навыки*
 JavaScript, React, TypeScript, CI/CD, GitLab, Nginx, Docker
+
+---
 
 ### **Marlerino Group**
 
@@ -73,6 +79,8 @@ LordOfApps: сервис для аренды webview приложений (React
 
 #### *Применяемые навыки*
 JavaScript, React, Node.js, HTML, CSS, Saas, Redux
+
+---
 
 ### **Splinex**
 
