@@ -7,4 +7,4 @@ https://github.com/DefinitelyTyped/DefinitelyTyped/pull/53730
 
 ---
 
-![codewars](https://www.codewars.com/users/kvrvgixzis/badges/small)
+- ![codewars](https://www.codewars.com/users/kvrvgixzis/badges/small)
