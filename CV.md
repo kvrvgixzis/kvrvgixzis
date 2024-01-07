@@ -1,10 +1,6 @@
 ﻿# **Никита Парфенов**
 React, JavaScript
 
-Стаж: 5 лет
-
-Зарплатные ожидания: От 200 000 ₽
-
 ### **Контактная информация**
 
 Telegram: [@kvrvgixzis](https://telegram.me/kvrvgixzis)
@@ -14,21 +10,14 @@ Email: n1koss.boy@gmail.com
 GitHub: <https://github.com/kvrvgixzis>
 
 ## **Профессиональные навыки**
-React, Redux, JavaScript, Node.js, TypeScript, Linux, Git, Docker, Nginx
+React, JavaScript, Node.js, TypeScript, Linux, Git
 
 ## **Опыт работы**
-
-### **ЦВТ**
-
-#### *Июль 2022 — По наст. время*
-Frontend разработчик
-
----
 
 ### **Яндекс**
 
 #### *Июль 2021 — По наст. время*
-Аутстафф frontend разработчик в сервисе Яндекс Плюс
+Frontend разработчик в сервисе Яндекс Плюс
 
 #### *Обязанности и достижения:*
 Разработка личного кабинета сервиса Яндекс.Плюс (**React, TypeScript, GraphQL + Apollo**): 
@@ -44,6 +33,13 @@ Frontend разработчик
 
 #### *Применяемые навыки*
 JavaScript, React, Node.js, Redux, TypeScript, GraphQL
+
+---
+
+### **ЦВТ**
+
+#### *Июль 2022 — Июнь 2023 (1 год)*
+Frontend разработчик
 
 ---
 
